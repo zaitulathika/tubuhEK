@@ -38,6 +38,7 @@ Route::get('/status_proses', 'PageController@status_proses');
 //berjaya
 Route::get('/status_berjaya', 'PageController@status_berjaya');
 
+//tetsing
 
 //traditional router
 // Route::get('/', function () {
