@@ -39,6 +39,10 @@ Route::get('/status_proses', 'PageController@status_proses');
 Route::get('/status_berjaya', 'PageController@status_berjaya');
 
 
+//lalalala
+
+
+
 //traditional router
 // Route::get('/', function () {
 //     return view('welcome');
