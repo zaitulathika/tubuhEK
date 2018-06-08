@@ -40,7 +40,7 @@ Route::get('/status_berjaya', 'PageController@status_berjaya');
 
 
 //lalalala
-
+//nananana
 
 
 //traditional router
